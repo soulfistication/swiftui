@@ -1,11 +1,3 @@
-//
-//  ContentView.swift
-//  SLSwiftUI
-//
-//  Created by MacBook Pro on 6/14/19.
-//  Copyright © 2019 Ivan. All rights reserved.
-//
-
 import SwiftUI
 
 struct ContentView : View {
